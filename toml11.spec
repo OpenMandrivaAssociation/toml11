@@ -4,7 +4,7 @@
 
 Name: toml11
 Version: 3.7.1
-Release: 1
+Release: 2
 Source0: https://github.com/ToruNiina/toml11/archive/refs/tags/v%{version}.tar.gz
 Summary: TOML library for modern C++ (C++11 or later)
 URL: https://github.com/ToruNiina/toml11
